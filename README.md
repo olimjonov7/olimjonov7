@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ilyosbek Olimjonov
 - 👀 I’m interested in coding and playing sports 
 - 🌱 I’m currently learning python programming language
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me -> https://t.me/olimjono_i
 
 <!---
